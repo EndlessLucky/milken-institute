@@ -1,7 +1,11 @@
 #example-collapse-text{
   background-color: #E2E7EA;
 }
+.tab-content{
+  margin-top: 10px;
+}
 .menu-title{
+  padding-left: 40px;
   color:#bbb;
 }
 .menu-content h6{
